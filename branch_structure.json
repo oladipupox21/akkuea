@@ -1,0 +1,18 @@
+{
+  "default_branch": "develop",
+  "branches": [
+    "develop",
+    "origin",
+    "security/issue-1160-ci-trim-duplicated-and-no-op-work-from-ci-one"
+  ],
+  "parent": {
+    "develop": null,
+    "origin": "develop",
+    "security/issue-1160-ci-trim-duplicated-and-no-op-work-from-ci-one": "develop"
+  },
+  "order": [
+    "develop",
+    "origin",
+    "security/issue-1160-ci-trim-duplicated-and-no-op-work-from-ci-one"
+  ]
+}
